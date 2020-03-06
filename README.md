@@ -1,5 +1,7 @@
 # moment-weekofmonth
 [![Build Status](https://travis-ci.org/swtpumpkin/moment-weekofmonth.svg?branch=master)](https://travis-ci.org/swtpumpkin/moment-weekofmonth)  
+[![version](https://img.shields.io/npm/v/moment-weekofmonth.svg?style=flat-square)]((http://npm.im/moment-weekofmonth))  
+[![downloads](https://img.shields.io/npm/dm/moment-weekofmonth.svg?style=flat-square)](https://npm-stat.com/charts.html?package=moment-weekofmonth&from=2020-03-05)  
 
 Gets the week of the month.  
 Use the moment object to find the week number of the month.
