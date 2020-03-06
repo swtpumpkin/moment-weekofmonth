@@ -1,4 +1,6 @@
 # moment-weekofmonth
+[![Build Status](https://travis-ci.org/swtpumpkin/moment-weekofmonth.svg?branch=master)](https://travis-ci.org/swtpumpkin/moment-weekofmonth)  
+
 Gets the week of the month.  
 Use the moment object to find the week number of the month.
 
