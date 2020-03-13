@@ -1,6 +1,7 @@
 # moment-weekofmonth
-[![Build Status](https://travis-ci.org/swtpumpkin/moment-weekofmonth.svg?branch=master)](https://travis-ci.org/swtpumpkin/moment-weekofmonth)
+[![moment-weekofmonth-CI](https://github.com/swtpumpkin/moment-weekofmonth/workflows/moment-weekofmonth-CI/badge.svg?branch=master)](https://github.com/swtpumpkin/moment-weekofmonth/actions)
 [![version](https://img.shields.io/npm/v/moment-weekofmonth.svg?style=flat-square)]((http://npm.im/moment-weekofmonth))
+[![install size](https://packagephobia.now.sh/badge?p=moment-weekofmonth)](https://packagephobia.now.sh/result?p=moment-weekofmonth)
 [![downloads](https://img.shields.io/npm/dm/moment-weekofmonth.svg?style=flat-square)](https://npm-stat.com/charts.html?package=moment-weekofmonth&from=2020-03-05)  
 
 Gets the week of the month.  
