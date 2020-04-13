@@ -10,12 +10,8 @@
   ],
   "packageRules": [
     {
-      "packageNames": [
-        "moment"
-      ],
-      "schedule": [
-        "every weekend"
-      ]
+      "packageNames": ["npm", "yarn"],
+      "automerge": false
     }
   ]
 }
