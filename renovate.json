@@ -1,0 +1,21 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "major": {
+    "automerge": false
+  },
+  "labels": [
+    "renovate"
+  ],
+  "packageRules": [
+    {
+      "packageNames": [
+        "moment"
+      ],
+      "schedule": [
+        "every weekend"
+      ]
+    }
+  ]
+}
